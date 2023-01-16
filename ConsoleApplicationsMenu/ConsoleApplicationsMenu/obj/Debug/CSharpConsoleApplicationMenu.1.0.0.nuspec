@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CSharpConsoleApplicationMenu</id>
+    <version>1.0.0</version>
+    <title>A Menu for Selecting CSharp Console Applications</title>
+    <authors>Egbujie Chizoba</authors>
+    <readme>README.md</readme>
+    <description>This is a simple menu-driven package that displays c# console applications once a user collects from the available options.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\achar\source\repos\ConsoleApplicationsMenu\ConsoleApplicationsMenu\bin\Debug\netstandard2.0\ConsoleApplicationsMenu.dll" target="lib\netstandard2.0\ConsoleApplicationsMenu.dll" />
+    <file src="C:\Users\achar\OneDrive\Documents\README.md" target="\README.md" />
+  </files>
+</package>
