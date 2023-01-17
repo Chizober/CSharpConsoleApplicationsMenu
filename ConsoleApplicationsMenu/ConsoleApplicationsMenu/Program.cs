@@ -7,10 +7,10 @@ using System.Threading;
 
 namespace ConsoleApplicationsMenu
 {
-    public class Program
+    public class Menu
     {
         public string input = "";
-        void Menus()
+        public void Menus()
         {
 
             string input;
